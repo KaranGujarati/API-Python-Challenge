@@ -1,4 +1,4 @@
-# Python-API-Challenge
+# Weather World
 
 This repository uses the [Open Weather Map API](https://openweathermap.org/api), and JSON traversals to answer a fundamental question: "What's the weather like as we approach the equator?"
 
